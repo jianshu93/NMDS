@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
 #
 # Author:   HIGASHI Koichi
 # Created:  2014-11-19
