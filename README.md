@@ -11,3 +11,5 @@ optional arguments:
   -g GROUP_FILE, --grouping_file GROUP_FILE       plot samples by same colors and markers when they belong to the same group. Please indicate Tab- separated 'Samples vs. Group file' ( first columns are sample names, second columns are group names ).
 
 This will create a pdf figure using the first 2 axis of nmds. 
+
+You can also modified it for you purposes
