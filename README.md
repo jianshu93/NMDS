@@ -3,5 +3,7 @@ This is a hands-on NMDS function for community ecology. 2 distance metrics are o
 
 # usage
 In a command line:
+
 python3 nmds.py -f sample-by-feature.txt -g group.txt -d BrayCurtis
+
 This will create a pdf figure using the first 2 axis of nmds. The distance option could be BrayCurtis or Jaccard
