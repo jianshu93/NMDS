@@ -28,7 +28,7 @@ from plotnine import *
 from plotnine.data import *
 
 # read dataframe and check
-fungal_otu = pd.read_csv('ITS_resample_OTU_table_without_singlet_taxonomy_sampleArran1.csv',header=0,index_col=0)
+fungal_otu = pd.read_csv('ITS_OTU_table.csv',header=0,index_col=0)
 fungal_otu_transpose=fungal_otu.T
 group=pd.read_csv('group1.csv',header=0,index_col=0)
 print(fungal_otu_transpose.head())

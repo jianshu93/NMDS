@@ -19,9 +19,8 @@ import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.pylab as pylab
 
-# matplotlib.rcParams['font.sans-serif'] = "Helvetica"
-
-# matplotlib.rcParams['font.family'] = "sans-serif"
+matplotlib.rcParams['font.sans-serif'] = "Helvetica"
+matplotlib.rcParams['font.family'] = "sans-serif"
 
 params={
     'axes.labelsize': '14',
